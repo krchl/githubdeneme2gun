@@ -23,6 +23,8 @@ public class Day2GitGithub {
 
         not: git log -- online --> Commitlerimdeki yani
              versiyonlarimdaki durumu gosterir
+             
+             NOT : Github ogrendim
      */
     public static void main(String[] args) {
         System.out.println("Githhub'ida ogrendim'");
