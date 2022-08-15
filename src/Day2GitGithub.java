@@ -20,6 +20,9 @@ public class Day2GitGithub {
 
         Not: Bu iki komutu tek seferde kullandiktan sonra ikinci commit'lerim
         icin sadece git push kullaniriz
+
+        not: git log -- online --> Commitlerimdeki yani
+             versiyonlarimdaki durumu gosterir
      */
     public static void main(String[] args) {
         System.out.println("Githhub'ida ogrendim'");
