@@ -26,7 +26,7 @@ public class Day2GitGithub {
              
              NOT : Github ogrendim
              
-             NOT : github cok eglenceli
+    
      */
     public static void main(String[] args) {
         System.out.println("Githhub'ida ogrendim'");
